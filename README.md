@@ -10,4 +10,4 @@ Projeto desenvolvido para a disciplina de **Sistemas Inteligentes (2026/1)**. O 
 
 ## 📂 Estrutura do Repositório
 - `/imagens_tabuleiro`: Contém os prints dos tabuleiros do LinkedIn utilizados para testes.
-- `/notebooks`: Códigos de processamento e inteligência artificial (.ipynb).
+- `main.ipynb`: Código principal de processamento (notebook).
