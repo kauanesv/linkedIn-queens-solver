@@ -32,5 +32,5 @@ O desempenho de cada modelo é validado a partir de três critérios principais:
 - Aplicação de métricas estatísticas descritivas (média simples e desvio padrão) sobre os resultados obtidos.
 
 ## 📂 Estrutura do Repositório
-- `/imagens_tabuleiro`: Amostra com os 13 prints dos tabuleiros reais do LinkedIn utilizados nos testes.
+- `/imagens_tabuleiro`: Amostra com os 14 prints dos tabuleiros reais do LinkedIn utilizados nos testes.
 - `main.ipynb`: Notebook principal contendo as funções de visão computacional, modelagem matemática da função de custo, implementação dos 6 algoritmos e plotagem dos gráficos de desempenho.
